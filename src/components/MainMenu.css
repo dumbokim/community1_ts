@@ -1,0 +1,14 @@
+.menu__wrapper {
+  width: 25vw;
+}
+
+.menu__body {
+  padding: 0;
+}
+
+.menu__body li {
+  padding: 15px 0;
+  margin: 20px 0;
+  margin-left: 2vw;
+  list-style: none;
+}

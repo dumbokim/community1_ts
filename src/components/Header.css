@@ -1,0 +1,43 @@
+.header__wrapper {
+  width: 100vw;
+  height: 50px;
+  padding: 10px 0;
+}
+
+.header__wrapper button:hover {
+  box-shadow: 0 0 10px black;
+}
+
+.header__body {
+  width: 100vw;
+  height: 50px;
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#home__btn {
+  border: none;
+  border-radius: 50vw;
+  height: 50px;
+  width: 100px;
+  margin-left: 5vw;
+  color: aliceblue;
+  background-color: rgba(0, 0, 0, 0.664);
+}
+
+.header__btns {
+  width: 40vw;
+}
+
+.header__btns button {
+  height: 35px;
+  margin: 0 1vw;
+  padding: 0 15px;
+  border: none;
+  border-radius: 50vw;
+  color: aliceblue;
+  background-color: rgba(0, 0, 0, 0.664);
+}

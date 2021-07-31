@@ -1,0 +1,10 @@
+.main__body {
+  width: 100vw;
+}
+
+.main__context {
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
