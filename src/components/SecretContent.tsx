@@ -9,6 +9,14 @@ export default function SchoolContent() {
           <h1>비밀 게시판</h1>
         </div>
         <div className='content__content'>
+          <div className='hello'>hello</div>
+          <div className='hello'>hello</div>
+          <div className='hello'>hello</div>
+          <div className='hello'>hello</div>
+          <div className='hello'>hello</div>
+          <div className='hello'>hello</div>
+          <div className='hello'>hello</div>
+
         </div>
       </div>
     </div>

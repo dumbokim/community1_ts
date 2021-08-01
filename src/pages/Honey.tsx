@@ -1,8 +1,8 @@
-import React from 'react';
+import * as React from 'react';
 import './Main.css';
 import Header from '../components/Header';
 import MainMenu from '../components/MainMenu';
-import HoneyContent from '../components/HoneyContent';
+import HoneyContent1 from '../components/HoneyContent';
 
 export default function Main() {
   return (
@@ -11,7 +11,7 @@ export default function Main() {
       <div className='main__context'>
         <MainMenu />
 
-        <HoneyContent />
+        <HoneyContent1 />
       </div>
     </div>
   )

@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 export default function MainMenu() {
   return (
-    <div class='menu__wrapper'>
+    <div className='menu__wrapper'>
       <ul className='menu__body'>
         <Link to='free' style={{ color: 'inherit', textDecoration: 'inherit'}}><li>자유게시판</li></Link>
         <Link to='school' style={{ color: 'inherit', textDecoration: 'inherit'}}><li>학교 소식</li></Link>
